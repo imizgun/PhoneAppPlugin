@@ -1,0 +1,11 @@
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\bin\Debug\EmployeeGetter.Plugin.dll
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\bin\Debug\EmployeeGetter.Plugin.pdb
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\bin\Debug\PhoneApp.exe
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\bin\Debug\PhoneApp.pdb
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\obj\Debug\EmployeeGetter.Plugin.csproj.AssemblyReference.cache
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\obj\Debug\EmployeeGetter.Plugin.csproj.CoreCompileInputs.cache
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\obj\Debug\Employee.242A8B94.Up2Date
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\obj\Debug\EmployeeGetter.Plugin.dll
+C:\Users\miham\Desktop\EmployeeGetter.Plugin\EmployeeGetter.Plugin\obj\Debug\EmployeeGetter.Plugin.pdb
